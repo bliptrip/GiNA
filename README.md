@@ -7,8 +7,8 @@ A CRAN-provided package is availabe for this tool, but does not support the neur
 
 # Requirements
 
-*Matlab Software Toolkit
-*[Export Figure Library](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig/)  
+* Matlab Software Toolkit
+* [Export Figure Library](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig/)  
 
 # Documentation
 
