@@ -18,3 +18,11 @@ documentation are listed below:
 # Example Use
 
 Examples of usage can be found in the examples/ subfolder.
+
+# Templates
+
+Templates with size standards for printing are available in the templates/ folder.  Both PDF and Adobe Photoshop formats 
+are available, in case the user wants to edit the original templates.  When printing the templates, please make sure you
+use the correct print settings to have the size standards correct (print at 100% scale, and measure size standards with
+a ruler to make sure they are 1 inch, or 2.54 cm, in width).  There are an assortment of templates available to print
+on different size paper formats, along with different spacing of the right and left flanking size standards.
